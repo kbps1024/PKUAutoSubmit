@@ -4,7 +4,7 @@
 
 北京地区出现本土病例，本仓库已停止自动 Actions。如果你想自动云填报，请自行修改 `.github/workflows/main.yml`。
 
-
+lalalala
 
 感谢 [hayschan](https://github.com/hayschan) 撰写的[使用文档](https://haysc.tech/2020/10/17/pku-auto-beian/)，强烈推荐在使用本项目前阅读。!!
 
